@@ -5,11 +5,5 @@
       "/images/*.{png,jpg,gif,ico}",
       "/*.{css,scss,js}"
     ]
-  },
-       "routes": [
-       {
-         "route": "/bakery/*",
-         "serve": "/index.html"
-       }
-     ]
+  }
 }
